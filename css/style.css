@@ -1,0 +1,23 @@
+html,body{
+  padding: 0;
+  margin: 0;
+}
+a{
+  text-decoration:none;
+  color: #000;
+}
+ul {
+    display: flex;
+    align-items: center;
+  }
+
+  ul li {
+    float: left;
+    list-style: none;
+    padding-left: 16px;
+    width: 70px;
+    color: green;
+  }
+  .text-content{
+    padding: 16px;
+  }
